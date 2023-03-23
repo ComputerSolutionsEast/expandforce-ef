@@ -1,0 +1,12 @@
+Sitemap: https://www.computersolutionseast.com/sitemap.xml
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /refer/
+
+User-agent: SemrushBot-SA
+Allow: /
+User-agent: SemrushBot-SI
+Allow: /
